@@ -94,6 +94,7 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 채수정 | https://github.com/SooJungChae | Frontend Web, Spring, C#, UX/UI design | 성남 | [![](icons/facebook-icon.png)](https://www.facebook.com/soojung.chae.3) [![](icons/naver-blog-icon.png)](https://blog.naver.com/naan_ace)|
+| 최지영 | https://github.com/jiyoung-choi | Data Analyst, Growth Hacker | 서울 |[![](icons/email-icon.png)](jiyoung031@gmail.com)|
 
 ## ㅍ
 
